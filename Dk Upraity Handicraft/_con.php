@@ -1,8 +1,8 @@
 <?php
-    $server = "sql100.infinityfree.com";
-    $username = "if0_35067570";
-    $pass = "uCyuIOCdaZWCAt";
-    $db = "if0_35067570_handicraft";
+    $server = "";
+    $username = "";
+    $pass = "";
+    $db = "";
 
     $conn = mysqli_connect($server, $username, $pass, $db);
 
